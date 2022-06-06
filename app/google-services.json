@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959310110843",
+    "project_id": "pocketbusiness-4d2fb",
+    "storage_bucket": "pocketbusiness-4d2fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959310110843:android:43389370e1e7acadaa82de",
+        "android_client_info": {
+          "package_name": "com.db.pocketbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959310110843-vf9r7ukkjs75n84p4i087f5gpr07d6m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv4eeKFBD0LZr2ImXoWOrBAzKX8yIz56w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959310110843-vf9r7ukkjs75n84p4i087f5gpr07d6m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
